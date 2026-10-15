@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "mantissa",
+  "versions": [
+    {
+      "commit": "53e5502aba23ce99be78b27f923a276593033fe8",
+      "tag": "0.9.0",
+      "parsed_at": "2026-10-15T14:59:49.006164+00:00"
+    }
+  ]
+}
