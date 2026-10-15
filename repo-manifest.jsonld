@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/mantissa/commit/53e5502aba23ce99be78b27f923a276593033fe8",
       "git:hexsha": "53e5502aba23ce99be78b27f923a276593033fe8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.9.0"
     },
     {
